@@ -1,0 +1,48 @@
+.font-nike{
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.font-price{
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 12px;
+}
+
+.amazon-hov:hover{
+  opacity: 0.5;
+}
+
+.Add-butt{
+  background-color: rgba(248, 215, 0, 0.795);
+  border: none;
+  color: rgb(0, 0, 0);
+  height: 36px;
+  width: 120px;
+  border-radius: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: opacity 0.5s;
+}
+
+.Add-butt:hover{
+  opacity: 0.5;
+}
+
+.buy-butt{
+  background-color: rgba(248, 132, 0, 0.795);
+  border: none;
+  color: rgb(0, 0, 0);
+  height: 36px;
+  width: 120px;
+  border-radius: 18px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: opacity 0.5s;
+}
+
+.buy-butt:hover{
+  opacity: 0.5;
+}
